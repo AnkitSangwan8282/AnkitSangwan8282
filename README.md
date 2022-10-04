@@ -18,3 +18,27 @@
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AnkitSangwan8282&theme=radical" />
 <img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSangwan8282&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
+
+![](https://github-readme-stats.vercel.app/api?username=AnkitSangwan8282&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitSangwan8282&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSangwan8282&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<a href="https://github.com/gkomsai/github-readme-activity-graph">
+  <img alt="ankit-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkitSangwan8282&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnkitSangwan8282&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AnkitSangwan8282&icon=5&color=1)](https://visitcount.itsvg.in)
+
+![sun](https://user-images.githubusercontent.com/101813593/185565292-eb111ecc-95fe-4734-9e5d-0f968c08c8e2.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&color=40F731&center=true&vCenter=true&width=1001&height=101&lines=Thanks++For+Visiting+My+Profile!)](https://git.io/typing-svg)
+
