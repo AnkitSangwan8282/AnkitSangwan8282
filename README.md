@@ -20,9 +20,7 @@
 <img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSangwan8282&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 
-![](https://github-readme-stats.vercel.app/api?username=AnkitSangwan8282&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitSangwan8282&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSangwan8282&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <a href="https://github.com/gkomsai/github-readme-activity-graph">
   <img alt="ankit-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkitSangwan8282&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
