@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ankitsangwan8282@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vh1RWyHgor2-i9molOezkP01ENrbGjuZ/view?usp=sharing](https://docs.google.com/document/d/1RTxjv7NX-9Dwtq41o8Pnn3Hh85lnkgHB/edit?usp=sharing&ouid=103255674204952899138&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Vh1RWyHgor2-i9molOezkP01ENrbGjuZ/view?usp=sharing](https://drive.google.com/file/d/1Vh1RWyHgor2-i9molOezkP01ENrbGjuZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
