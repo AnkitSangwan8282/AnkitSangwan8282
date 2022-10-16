@@ -19,7 +19,7 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AnkitSangwan8282&theme=radical" />
 <img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSangwan8282&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
-<br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitSangwan8282&theme=highcontrast&hide_border=true)<br/>
